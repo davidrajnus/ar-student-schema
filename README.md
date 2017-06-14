@@ -1,10 +1,9 @@
 ActiveRecord Student Schema
 ===========================
 
-To get started:
+This exercise shows the ability to:
+1) Create association between different models using Active Record
+2) Build and edit migration tables
+3) Data seeding and data migration from external sources (CSV)
+4) Undertand Active Record and SQLite
 
-1. Fork this repository.
-2. Clone your fork of this repository into your working directory.
-3. Install the necessary dependencies using Bundler: `$ bundle`
-4. Create your database: `$ rake db:create`
-5. Implement the objectives as described in the challenge in Socrates.
